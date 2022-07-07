@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1649530384 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 38. add shaders\main.c
+	<windows.h>
+	<glad/glad.h>
+	<stdio.h>
+
+1649435082 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1649619469 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 38, 40. add shaders, glsl\main.c
+	<windows.h>
+	<glad/glad.h>
+	<stdio.h>
+

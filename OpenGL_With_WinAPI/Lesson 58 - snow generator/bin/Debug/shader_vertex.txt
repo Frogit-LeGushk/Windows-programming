@@ -1,0 +1,47 @@
+#version 110
+
+
+vec4 vert;
+vec4 campos;
+
+void correct(inout float val, float pos)
+{
+	while(val > pos + 1.0)
+		val -= 2.0;
+	while(val < pos - 1.0)
+		val += 2.0;	
+}
+
+void main()
+{
+	vert = gl_Vertex;
+	campos = gl_Color * 0.05;
+	float wind = 6.0;
+
+	vert.z += gl_Color.a;
+
+	vert.x += gl_Color.a * 1.5;
+	vert.y += gl_Color.a * 0.5;
+
+	vert.x += sin(vert.z * 3.1413 * 5.0) * 0.02;
+	vert.y += cos(vert.z * 3.1413 * 5.0) * 0.02;
+	
+
+	
+	correct(vert.x, campos.x);
+	correct(vert.y, campos.y);
+	correct(vert.z, campos.z);
+
+	
+	gl_PointSize = 	(1.0 - abs(campos.x-vert.x)) *
+			(1.0 - abs(campos.y-vert.y)) *
+			(1.0 - abs(campos.z-vert.z)) * 10.0;
+			
+
+	vert.xyz *= 20.0;
+
+	gl_Position = gl_ModelViewProjectionMatrix * vert;
+}
+
+
+

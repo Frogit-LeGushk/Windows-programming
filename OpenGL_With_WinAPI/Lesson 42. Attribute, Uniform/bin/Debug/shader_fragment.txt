@@ -1,0 +1,16 @@
+#version 110
+
+varying vec4 color;
+
+/*
+	gl_FragCoord - embeded variable, which containes
+	current coordinates of vertex
+*/
+
+void main()
+{
+	gl_FragColor = vec4(1);
+	//float mul = 0.3;
+	//if(gl_FragCoord.y < 100.0)
+	//	gl_FragColor.rb *= mul;
+}

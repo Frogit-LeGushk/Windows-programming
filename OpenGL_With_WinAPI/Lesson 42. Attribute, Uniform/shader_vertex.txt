@@ -1,0 +1,15 @@
+#version 110
+
+attribute vec3 abc;
+uniform vec2 dxy;
+varying vec4 color;
+void main()
+{
+	
+	gl_Position = gl_Vertex;
+	gl_Position.xy += dxy;
+	color = vec4(abc, 1);
+}
+
+
+

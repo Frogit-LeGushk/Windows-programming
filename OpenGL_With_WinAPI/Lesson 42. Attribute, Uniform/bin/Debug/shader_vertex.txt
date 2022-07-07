@@ -1,0 +1,40 @@
+#version 110
+
+/* varying - спецификатор, говорящий о том, что данная 
+переменная будет соеденина с переменной имеющей тоже имя
+в фрагментном шейдере
+*/
+varying vec4 color;
+
+
+void main()
+{
+	
+	//gl_Position = gl_ModelViewMatrix * gl_Vertex;
+	color = gl_Color;
+	//color[0] = 1.0;
+	//color.r = 0.0;
+	//color.x = float(0);
+	//color.rg = vec2(1,1);
+	//color.rgb = vec3(gl_Color.rg, 0);
+	//color = vec4(1);
+	//color.rg = vec2(gl_Color);
+	//color = gl_Color * 0.5;
+	//color = gl_Color * vec4(1,0.2,0.5,1);
+	//for(int i = 0; i < 4; i++)
+	//	color[i] = gl_Color[i];
+
+	gl_Position = gl_Vertex;
+	gl_Position.y += gl_Color.g;
+	if(gl_Position.y < -1.0)
+		gl_Position.y += 2.0;
+
+	gl_Position.x += sin((gl_Position.y + gl_Position.z) * 10.0) * 0.02;
+	gl_Position.x += sin((gl_Position.y + gl_Position.z) * 3.0) * (0.1 + gl_Color.r * 0.1);
+	gl_Position.x += abs(gl_Color.g) * gl_Color.r;
+	while(gl_Position.x < -1.0) gl_Position.x += 2.0;
+	while(gl_Position.x > 1.0) gl_Position.x -= 2.0;
+}
+
+
+

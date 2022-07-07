@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1650141766 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 51. menu module\main.c
+	<windows.h>
+	<gl/gl.h>
+	<menu.h>
+
+1650141603 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\_opengl\menu.c
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<menu.h>
+	<stb_easy_font.h>
+

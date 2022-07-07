@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1649446345 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 35. add glad\main.c
+	<windows.h>
+	<glad/glad.h>
+
+1649435082 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\include\glad\glad.h
+	<KHR/khrplatform.h>
+
+1649435082 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\include\khr\khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1649435082 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+

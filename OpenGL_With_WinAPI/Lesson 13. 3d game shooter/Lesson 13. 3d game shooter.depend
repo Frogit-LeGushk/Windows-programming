@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1648752154 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 13. 3d game shooter\main.c
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+	<stdbool.h>
+	<time.h>
+	<mmsystem.h>
+

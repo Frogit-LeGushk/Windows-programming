@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1650386162 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 53. simple 2d map\main.c
+	<windows.h>
+	<glad/glad.h>
+	<stb_image.h>
+	<shader.h>
+	<tex.h>
+	"main.h"
+
+1649435082 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1650385997 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\_opengl\shader.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<errno.h>
+	"shader.h"
+
+1650057104 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\_opengl\shader.h
+
+1650135080 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\_opengl\tex.c
+	<GL/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<stb_image.h>
+	"tex.h"
+
+1650134718 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\_opengl\tex.h
+
+1650385647 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 53. simple 2d map\main.h
+

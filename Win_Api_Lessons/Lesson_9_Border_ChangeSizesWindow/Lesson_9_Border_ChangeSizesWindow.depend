@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1644674326 source:c:\users\jukvo\desktop\code_blocks\winapi\lesson_9_border_changesizeswindow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1648661210 source:c:\users\jukvo\desktop\code_blocks\windows\winapi\lesson_9_border_changesizeswindow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

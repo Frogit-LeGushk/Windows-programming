@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1645649414 source:c:\users\jukvo\desktop\code_blocks\projects\desctop\main.c
+	"Declaration.h"
+	"BMPHandlers.h"
+	"Render.h"
+	"WAVHandlers.h"
+
+1645388349 source:c:\users\jukvo\desktop\code_blocks\projects\desctop\bmphandlers.c
+	"BMPHandlers.h"
+
+1645386112 c:\users\jukvo\desktop\code_blocks\projects\desctop\bmphandlers.h
+	"Declaration.h"
+
+1645646115 c:\users\jukvo\desktop\code_blocks\projects\desctop\declaration.h
+	<stdio.h>
+	<assert.h>
+	<stdbool.h>
+	<direct.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
+1645649455 source:c:\users\jukvo\desktop\code_blocks\projects\desctop\wavhandlers.c
+	"WAVHandlers.h"
+
+1645644372 c:\users\jukvo\desktop\code_blocks\projects\desctop\wavhandlers.h
+	"Declaration.h"
+
+1645648299 source:c:\users\jukvo\desktop\code_blocks\projects\desctop\render.c
+	"Render.h"
+
+1645647455 c:\users\jukvo\desktop\code_blocks\projects\desctop\render.h
+	"Declaration.h"
+
+1645648445 source:c:\users\jukvo\desktop\code_blocks\projects\desctop\declaration.c
+	"Declaration.h"
+
+1645555604 c:\users\jukvo\desktop\code_blocks\projects\desctop\threepointsgradient.h
+	"Declaration.h"
+	"Render.h"
+
+1645555426 source:c:\users\jukvo\desktop\code_blocks\projects\desctop\threepointsgradient.cpp
+	"ThreePointsGradient.h"
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1649968587 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 48. text by 1 minute\main.c
+	<windows.h>
+	<gl/gl.h>
+	"../lib/stb-master/stb_easy_font.h"
+
+1631260109 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+

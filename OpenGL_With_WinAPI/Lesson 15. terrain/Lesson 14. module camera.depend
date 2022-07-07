@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 14. module camera\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 14. module camera\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1648757531 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 14. module camera\main.c
+	<windows.h>
+	<gl/gl.h>
+	"./_OpenGL/camera.h"
+
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 15. terrain\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 15. terrain\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1648757531 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 15. terrain\main.c
+	<windows.h>
+	<gl/gl.h>
+	"./_OpenGL/camera.h"
+

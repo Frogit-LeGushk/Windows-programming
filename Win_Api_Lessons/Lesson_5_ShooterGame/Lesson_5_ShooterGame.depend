@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1644615158 source:c:\users\jukvo\desktop\code_blocks\winapi\lesson_5_shootergame\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdbool.h>
+	<math.h>
+	<windows.h>
+

@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 14. module camera\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 14. module camera\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1648757531 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 14. module camera\main.c
+	<windows.h>
+	<gl/gl.h>
+	"./_OpenGL/camera.h"
+
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 15. terrain\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 15. terrain\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1648757531 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 15. terrain\main.c
+	<windows.h>
+	<gl/gl.h>
+	"./_OpenGL/camera.h"
+
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19. create location, add texture, lighting\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19. create location, add texture, lighting\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1649009726 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19. create location, add texture, lighting\main.c
+	<windows.h>
+	<gl/gl.h>
+	<stdbool.h>
+	<math.h>
+	"../lib/stb-master/stb_image.h"
+	"./_OpenGL/camera.h"
+	"main.h"
+
+1631260109 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1649009565 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19. create location, add texture, lighting\main.h
+
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19 and 20. create location, add texture, lighting and minecraft tree\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19 and 20. create location, add texture, lighting and minecraft tree\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1649015307 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19 and 20. create location, add texture, lighting and minecraft tree\main.c
+	<windows.h>
+	<gl/gl.h>
+	<stdbool.h>
+	<math.h>
+	"../lib/stb-master/stb_image.h"
+	"./_OpenGL/camera.h"
+	"main.h"
+
+1649013685 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19 and 20. create location, add texture, lighting and minecraft tree\main.h
+
+1648757521 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_opengl\camera.c
+	"camera.h"
+
+1648756899 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_opengl\camera.h
+	<windows.h>
+	<gl/gl.h>
+	<math.h>
+
+1649272648 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\main.c
+	"main.h"
+
+1649271522 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\main.h
+	<windows.h>
+	<gl/gl.h>
+	<stdbool.h>
+	<math.h>
+	"_libs/stb_image.h"
+	"./_OpenGL/camera.h"
+	"./_OpenGL/handlers.h"
+	"./_window/init.h"
+
+1631260109 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_libs\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1649105175 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_opengl\handlers.c
+	"handlers.h"
+
+1649105092 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_opengl\handlers.h
+	<windows.h>
+	<gl/gl.h>
+
+1649182815 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_window\init.c
+	"init.h"
+
+1649106287 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 19,20,21. create location, add texture, lighting and minecraft tree\_window\init.h
+	<windows.h>
+

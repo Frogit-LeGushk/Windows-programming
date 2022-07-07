@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1648930130 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 17. texturing\main.c
+	<windows.h>
+	<gl/gl.h>
+	"../lib/stb-master/stb_image.h"
+
+1631260109 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1649965155 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 47. texture functions\main.c
+	<windows.h>
+	"../lib/glad/include/glad/glad.h"
+	"../lib/stb-master/stb_image.h"
+
+1649435082 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\src\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1649435082 c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lib\glad\include\glad\glad.h
+	<KHR/khrplatform.h>
+

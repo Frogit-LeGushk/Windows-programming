@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644671934 source:c:\users\jukvo\desktop\code_blocks\winapi\lesson_6_gui_widjets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

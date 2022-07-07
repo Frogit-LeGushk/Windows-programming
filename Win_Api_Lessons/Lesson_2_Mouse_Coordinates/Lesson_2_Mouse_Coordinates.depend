@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644436283 source:c:\users\jukvo\desktop\vs_code\lesson_2_mouse_coordinates\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

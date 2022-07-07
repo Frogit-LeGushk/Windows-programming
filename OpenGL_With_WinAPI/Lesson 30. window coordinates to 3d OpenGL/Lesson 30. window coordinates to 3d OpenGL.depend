@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649356973 source:c:\users\jukvo\desktop\code_blocks\windows\opengl_with_winapi\lessons\lesson 30. window coordinates to 3d opengl\main.c
+	<windows.h>
+	<gl/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+

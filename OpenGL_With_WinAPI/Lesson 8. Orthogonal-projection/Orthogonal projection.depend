@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644781841 source:c:\users\jukvo\desktop\code_blocks\winapi\orthogonal projection\main.c
+	<windows.h>
+	<gl/gl.h>
+

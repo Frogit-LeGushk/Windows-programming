@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644510326 source:c:\users\jukvo\desktop\code_blocks\winapi\lesson_4_animation_&_framebuffer\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<windows.h>
+
