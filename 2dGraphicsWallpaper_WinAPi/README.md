@@ -3,7 +3,7 @@
 - `If u want sort out in realization or improve code` most simple case: to start project in IDE Code::Blocks
 
 ### result
-![Image alt](https://github.com/Acool4ik/windows/tree/master/2dGraphicsWallpaper_WinAPi/desctop/bitmap.jpg)
+![Image alt](https://github.com/Acool4ik/Windows-programming/blob/master/2dGraphicsWallpaper_WinAPi/bitmap.jpg)
 
 About keyboard handlers:
 - button `'I'` => increase size of grid cell 
